@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,PWR,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,94.375,-98.725,-90,top
+D2,Debug,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,96.55,-98.725,-90,top
+D3,Data,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,98.75,-98.725,-90,top
+D4,Data,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,101.05,-98.725,-90,top
+RN1,2-1622819-4,R_Array_Convex_4x0603,91.25,-98.75,90,top
+J1,9P 1.5mm SMD Board to Wire,CONN-SMD_HX15001-9AWB,158.2,-98.9,180,top
+J2,7P 1.5mm SMD Board to Wire,CONN-SMD_HX15001-7AWB,138,-98.9,180,top
+J3,5P 1.5mm SMD Board to Wire,CONN-SMD_HX15001-5AWB,108.5,-98.9,180,top
