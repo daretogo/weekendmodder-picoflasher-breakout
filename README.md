@@ -5,8 +5,8 @@ Code for this project is located - https://github.com/X360Tools/PicoFlasher
 
 This board is currently in prototyping phase.  More details to come.
 
-![image](https://user-images.githubusercontent.com/70423454/158206318-5f340d90-c9b3-4e65-9574-ce484c2c98ae.png)
+![image](https://user-images.githubusercontent.com/70423454/161393444-3c5ce2b3-24f1-4218-9fee-7977f767531b.png)
 
-![image](https://user-images.githubusercontent.com/70423454/158207778-7303fc50-eb08-4863-8e04-5c60029a7ca7.png)
+![image](https://user-images.githubusercontent.com/70423454/161393472-50a95e21-8f6a-4c2a-b116-fce395256c40.png)
 
 GNU General Public License v3.0  (Free for use)
