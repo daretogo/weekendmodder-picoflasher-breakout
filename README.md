@@ -7,7 +7,7 @@ This board is currently in prototyping phase.  More details to come.
 
 V1.4 has been created and fixes the colors pinouts to match JST Cable color cables.
 
-![image](https://user-images.githubusercontent.com/70423454/163696133-fac05c55-593a-4d55-b5c0-1c5462138c76.png)
+![image](https://user-images.githubusercontent.com/70423454/163696152-6b5c074c-2458-44b4-a511-f3efd8bbcf59.png)
 
 ![image](https://user-images.githubusercontent.com/70423454/163696140-c9c5d3e8-b046-4f78-a239-a05b52f6234d.png)
 
